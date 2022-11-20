@@ -1,6 +1,8 @@
 public class ClassA {
     public int a;
 
+
+
     public void printText(){
         System.out.println("TextA");
     }

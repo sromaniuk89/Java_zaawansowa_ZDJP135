@@ -5,5 +5,7 @@ public class CompositionExample {
         //poprzez operator . dostajemy sie do poszczegolnych sklaodwych obiektu smartphone a nastepnie do
         //skladowych obiektu procesor
         System.out.println(smartphone.processor.getName());
+
+        System.out.println(Smartphone.num);
     }
 }

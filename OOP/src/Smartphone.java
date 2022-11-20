@@ -3,8 +3,11 @@ public class Smartphone {
     public Processor processor;
     public Camera camera;
 
+    public static int num;
+
     public Smartphone(Processor processor, Camera camera) {
         this.processor = processor;
         this.camera = camera;
     }
+
 }

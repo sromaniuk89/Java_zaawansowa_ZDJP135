@@ -3,11 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericTypes/GenericTypes.iml" filepath="$PROJECT_DIR$/GenericTypes/GenericTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIO_NIO/JavaIO_NIO.iml" filepath="$PROJECT_DIR$/JavaIO_NIO/JavaIO_NIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Zaawansowa_ZDJAVAPOL135.iml" filepath="$PROJECT_DIR$/Java_Zaawansowa_ZDJAVAPOL135.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optionals/Optionals.iml" filepath="$PROJECT_DIR$/Optionals/Optionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflections/Reflections.iml" filepath="$PROJECT_DIR$/Reflections/Reflections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
