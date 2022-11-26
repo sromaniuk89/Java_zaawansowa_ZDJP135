@@ -11,9 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaIO_NIO/JavaIO_NIO.iml" filepath="$PROJECT_DIR$/JavaIO_NIO/JavaIO_NIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Zaawansowa_ZDJAVAPOL135.iml" filepath="$PROJECT_DIR$/Java_Zaawansowa_ZDJAVAPOL135.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Optionals/Optionals.iml" filepath="$PROJECT_DIR$/Optionals/Optionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflections/Reflections.iml" filepath="$PROJECT_DIR$/Reflections/Reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
